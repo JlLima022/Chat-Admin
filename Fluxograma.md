@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Início] --> B{Autenticar usuário}
     B -- Válido? --> C[Tela Principal]
